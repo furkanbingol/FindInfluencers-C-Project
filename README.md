@@ -6,7 +6,7 @@
 ##### 3- In the nodes that you calculated in the first figure above, X>M, the in-degree value is X the total number of incoming connections that is greater than-equal to the number and that you calculated in the second figure is a Y nodes that are greater than-equal in value belong to influencer people.
 <hr><hr>
 
-<strong>$\color[RGB]{247, 183, 49} IMAGES$</strong>  
+<h3><strong>IMAGES</strong></h3>  
 
 
 <p float="left">

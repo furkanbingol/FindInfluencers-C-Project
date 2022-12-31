@@ -10,6 +10,6 @@
 
 
 <p float="left">
-  <img src="https://i.hizliresim.com/cqrw3dr.png" width="450" height="500"/>
-  <img src="https://i.hizliresim.com/m3oc1g2.png" width="450" height="500"/> 
+  <img src="https://i.hizliresim.com/cqrw3dr.png" width="420" height="500"/>
+  <img src="https://i.hizliresim.com/m3oc1g2.png" width="420" height="500"/> 
 </p>
